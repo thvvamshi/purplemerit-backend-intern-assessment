@@ -27,7 +27,7 @@ export default function Navbar() {
           WebkitTextFillColor: "transparent",
           backgroundClip: "text"
         }}>
-          PurpleMerit
+          User-Management-System
         </h3>
         
         <div style={{ display: "flex", gap: "20px", alignItems: "center" }}>
